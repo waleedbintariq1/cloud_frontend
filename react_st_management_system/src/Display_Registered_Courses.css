@@ -1,0 +1,15 @@
+.div_credithours {
+  font-size: 22px;
+  color: darkgreen;
+  font-weight: bolder;
+  font-family: "Gotham SSm", "Helvetica Neue", Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.div_actual_credithours {
+  font-size: 22px;
+  color: black;
+  font-weight: bold;
+  font-family: "Gotham SSm", "Helvetica Neue", Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}

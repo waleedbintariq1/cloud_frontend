@@ -1,0 +1,75 @@
+.img_student_fee_challan {
+  height: 60px;
+}
+
+.div_challan_info {
+  /* padding-top: 100px; */
+  /* background-color: white; */
+  /* border: solid 2px red; */
+}
+.div_actual_challan_info {
+  background-color: lawngreen;
+  display: flex;
+  flex-direction: row;
+  width: 1369px;
+  /* padding-left: -40px; */
+  padding-top: 10px;
+  padding-bottom: 10px;
+  height: 50px;
+}
+.div_actual_amount {
+  margin-left: 20px;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 150px;
+  width: 200px;
+  border: solid 2px white;
+  font-size: 22px;
+  color: black;
+  font-weight: bold;
+  font-family: "Gotham SSm", "Helvetica Neue", Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.div_actual_generated_on {
+  margin-left: 20px;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 180px;
+  width: 200px;
+  border: solid 2px white;
+  font-size: 22px;
+  color: black;
+  font-weight: bold;
+  font-family: "Gotham SSm", "Helvetica Neue", Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.div_sctual_due_date {
+  margin-left: 20px;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 200px;
+  border: solid 2px white;
+  font-size: 22px;
+  color: black;
+  font-weight: bold;
+  font-family: "Gotham SSm", "Helvetica Neue", Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.div_actual_status {
+  margin-left: 20px;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 200px;
+  border: solid 2px white;
+  font-size: 22px;
+  color: black;
+  font-weight: bold;
+  font-family: "Gotham SSm", "Helvetica Neue", Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
