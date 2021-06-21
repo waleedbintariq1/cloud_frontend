@@ -1,0 +1,22 @@
+[
+  {
+    "courseID": 1,
+    "courseName": "Database Systems",
+    "courseSection": "A"
+  },
+  {
+    "courseID": 2,
+    "courseName": "Computer Basics",
+    "courseSection": "A"
+  },
+  {
+    "courseID": 3,
+    "courseName": "English Language",
+    "courseSection": "C"
+  },
+  {
+    "courseID": 4,
+    "courseName": "Electronics",
+    "courseSection": "C"
+  }
+]

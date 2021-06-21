@@ -1,0 +1,13 @@
+[
+  {
+    "dept_id": 1,
+    "dept_name": "CS",
+    "dept_head": 1
+  },
+
+  {
+    "dept_id": 2,
+    "dept_name": "EE",
+    "dept_head": 2
+  }
+]

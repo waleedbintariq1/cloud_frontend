@@ -1,0 +1,19 @@
+[
+  {
+    "teacher_id": 1,
+    "name": "Ahmad Isfaq",
+    "cnic": "352023345321",
+    "phone_no": "03214713827",
+    "department": [1],
+    "courses": [1]
+  },
+
+  {
+    "teacher_id": 2,
+    "name": "Dr Asma",
+    "cnic": "352024355321",
+    "phone_no": "03194713827",
+    "department": [1, 2],
+    "courses": [1, 2]
+  }
+]

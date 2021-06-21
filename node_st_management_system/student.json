@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Muhammad Gulraiz",
+    "roll_no": "17L-4055",
+    "phone_no": "0312345343",
+    "dept_id": 1,
+    "cgpa": 3.31,
+    "email": "l174055@gmail.com",
+    "password": "abc",
+    "courses": [1, 2, 3, 4],
+    "department": "BSCS"
+  },
+
+  {
+    "name": "Salman Saleem",
+    "roll_no": "17L-4052",
+    "phone_no": "0319345343",
+    "dept_id": 1,
+    "cgpa": 3.11,
+    "email": "l174052@gmail.com",
+    "password": "heeloona",
+    "courses": [1],
+    "department": "BSCS"
+  },
+
+  {
+    "name": "Waleed Bin Tariq",
+    "roll_no": "17L-4146",
+    "phone_no": "0315345343",
+    "dept_id": 2,
+    "cgpa": 3.19,
+    "email": "l174146@gmail.com",
+    "password": "abcd",
+    "courses": [2],
+    "department": "BSCS"
+  }
+]
